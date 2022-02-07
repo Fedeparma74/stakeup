@@ -1,0 +1,8 @@
+{
+    "satellite": "yourSatelliteAddress",
+    "api": "yourApiKey",
+    "bucket": "Choose a bucket name",
+    "storjPassphrase": "Passphrase that encrypts your Storj bucket",
+    "zipPassword": "Password that encrypts the zip file",
+    "maxCopies": 3
+}
