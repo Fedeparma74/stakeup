@@ -9,6 +9,9 @@ If you want to test it download from the release or build from source. Then crea
 To build from source you need:
 - Node.js
 - pkg
+- make
+- gcc
+- go
 
 ### Commands
 
